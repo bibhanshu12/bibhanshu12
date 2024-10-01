@@ -1,6 +1,15 @@
 - 👋 Hi, I’m Bibhanshu lal karn
-- 📩 How to reach me: mail.bibhanshu127@gmail.com
+- 📩 How to reach me: mail.bibhanshu127@gmail.com <br/>
 
+**Languages**
+---
+[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+
+**Databases**
+---
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+**Profile Views**
 ---
 [![](https://visitcount.itsvg.in/api?id=bibhanshu12&label=Profile%20Views&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
