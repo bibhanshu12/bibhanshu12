@@ -3,7 +3,7 @@
 
 **Languages**
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
 
 **Databases**
 ---
