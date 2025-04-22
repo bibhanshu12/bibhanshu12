@@ -7,11 +7,9 @@
 
 **Databases**
 ---
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
-**Profile Views**
----
-[![](https://visitcount.itsvg.in/api?id=bibhanshu12&label=Profile%20Views&icon=4&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!---
 bibhanshu12/bibhanshu12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
