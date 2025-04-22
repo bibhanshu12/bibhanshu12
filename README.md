@@ -7,7 +7,7 @@
 
 **Databases**
 ---
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 **Profile Views**
 ---
