@@ -7,7 +7,7 @@
 
 **Databases & ORMs**
 ---
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma)](https://skillicons.dev)
 
 
 
