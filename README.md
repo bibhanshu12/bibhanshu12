@@ -5,7 +5,7 @@
 ---
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
 
-**Databases**
+**Databases & ORMs**
 ---
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
